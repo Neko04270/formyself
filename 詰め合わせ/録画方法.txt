@@ -4,3 +4,6 @@
 
 解決できない場合は、この記事を読んでください。
 https://bit.ly/3BE5BUz
+
+ミライシードポイント変更
+cmnDrillStatus.seedPoint = PointNumber;
